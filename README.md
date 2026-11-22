@@ -1,4 +1,4 @@
-# LAMINA — system dla zakładów cięcia laserowego i gięcia blach
+# TIBIRA — system dla zakładów cięcia laserowego i gięcia blach
 
 Wycena z rysunku, zlecenia, magazyn arkuszy, hala i kadry w jednym programie. Pracujesz w przeglądarce —
 na komputerze w biurze, na tablecie przy maszynie i na telefonie — a serwer i dane zostają w Twojej firmie.
@@ -40,7 +40,7 @@ materiał, zlecenia i dokumentację jakościową w jednym miejscu, bez wdrażani
 - Asystent AI i odczyt zapytania klienta z wklejonego tekstu — opcjonalne, domyślnie wyłączone;
   włącza je administrator.
 
-**Moduł LAMInest (opcjonalny)**
+**Moduł TIBInest (opcjonalny)**
 - Rozkrój blach z rysunków DXF i DWG, program LCC dla wycinarki i karta produkcyjna z czasem cięcia
   z tej samej tabeli co wyceny. Odblokowuje go klucz licencyjny, bez ponownej instalacji.
 
@@ -62,7 +62,7 @@ materiał, zlecenia i dokumentację jakościową w jednym miejscu, bez wdrażani
 Pełna wersja przez 30 dni, bez opłat i bez zobowiązań — na Twoich rysunkach, Twoim magazynie i prawdziwych
 zleceniach.
 
-1. Pobierz instalator z zakładki **[Releases](../../releases/latest)** (`Setup_Lamina_1.0.….exe` — w nazwie
+1. Pobierz instalator z zakładki **[Releases](../../releases/latest)** (`Setup_Tibira_1.0.….exe` — w nazwie
    jest numer wydania) i zainstaluj program.
 2. Na ekranie klucza wpisz nazwę firmy i telefon albo e-mail i kliknij **Wyślij prośbę o klucz**
    (albo wyślij ID komputera z tego ekranu na **biuro@hawi.com.pl**).
@@ -88,9 +88,9 @@ po kliknięciu „Wyślij prośbę o klucz”.
 
 Instrukcje dołączamy do każdego wydania — poniższe odnośniki prowadzą zawsze do wersji dla najnowszego programu:
 
-- **[Instrukcja wdrożenia (PDF)](https://github.com/HaWiSoftware/lamina/releases/latest/download/LAMINA_Instrukcja_Wdrozenia.pdf)**
+- **[Instrukcja wdrożenia (PDF)](https://github.com/HaWiSoftware/tibira/releases/latest/download/TIBIRA_Instrukcja_Wdrozenia.pdf)**
   — dla administratora: instalacja serwera, licencja, stanowiska, ustawienia, rozwiązywanie problemów.
-- **[Instrukcja użytkownika (PDF)](https://github.com/HaWiSoftware/lamina/releases/latest/download/LAMINA_Instrukcja_Uzytkownika.pdf)**
+- **[Instrukcja użytkownika (PDF)](https://github.com/HaWiSoftware/tibira/releases/latest/download/TIBIRA_Instrukcja_Uzytkownika.pdf)**
   — dla operatorów i technologów: praca na stanowiskach krok po kroku.
 
 ## Licencja
